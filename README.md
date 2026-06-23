@@ -17,7 +17,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones escalables y
 - 🎯 **Desarrollo Full Stack**: Frontend moderno + Backend robusto
 - 💾 **Ingeniería de Datos**: Medallion Architecture, ETL/ELT, Data Warehousing
 - ☁️ **Cloud & Big Data**: Databricks, Spark, Pipelines, Jobs
-- 💻 **Lenguajes**: TypeScript, Python, PHP, JavaScript, Vue, SQL
+- 💻 **Lenguajes**: TypeScript, Python, PHP, JavaScript, SQL
 - 🏗️ **Arquitectura**: Microservicios, APIs RESTful, Bases de datos relacionales
 - 🔧 **DevOps & Tools**: Docker, CI/CD, Git, Linux
 
